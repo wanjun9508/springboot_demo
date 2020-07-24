@@ -22,7 +22,8 @@ public class TestSmartGit {
     public String hello(Model m) {
         String test1 = "测试代码";
         String test2 = "测试代码2";
-        String test3 = "测试代码3";
+        String test3 = "测试代码3.0";
+        String test4 = "测试代码4";
         return "hello";
     }
 }
